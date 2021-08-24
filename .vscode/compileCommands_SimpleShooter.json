@@ -1,5 +1,25 @@
 [
 	{
+		"file": "F:\\\\Projects\\\\Repo\\\\Unreal Engine C++ Developer\\\\SimpleShooter\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\MyPawn.cpp",
+		"command": "cl.exe @\"F:\\Projects\\Repo\\Unreal Engine C++ Developer\\SimpleShooter\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Projects\\\\Repo\\\\Unreal Engine C++ Developer\\\\SimpleShooter\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\MyPawn.h",
+		"command": "cl.exe @\"F:\\Projects\\Repo\\Unreal Engine C++ Developer\\SimpleShooter\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Projects\\\\Repo\\\\Unreal Engine C++ Developer\\\\SimpleShooter\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterCharacter.cpp",
+		"command": "cl.exe @\"F:\\Projects\\Repo\\Unreal Engine C++ Developer\\SimpleShooter\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Projects\\\\Repo\\\\Unreal Engine C++ Developer\\\\SimpleShooter\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterCharacter.h",
+		"command": "cl.exe @\"F:\\Projects\\Repo\\Unreal Engine C++ Developer\\SimpleShooter\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "F:\\\\Projects\\\\Repo\\\\Unreal Engine C++ Developer\\\\SimpleShooter\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\SimpleShooter.Build.cs",
 		"command": "cl.exe @\"F:\\Projects\\Repo\\Unreal Engine C++ Developer\\SimpleShooter\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.190.rsp\"",
 		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
